@@ -25,8 +25,12 @@ In future professional roles, I hope to combine the data visualization skills I'
 This is where I will display in-class demos or other work.
 
 ---
-## Assignments
+## Assignment 1
 
 ---
+## Assignment 3 & 4:
 
+---
+## Final Project
 
+---
