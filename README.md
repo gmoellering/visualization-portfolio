@@ -18,7 +18,7 @@ In future professional roles, I hope to combine the data visualization skills I'
 ### What I Hope to Learn
 1. Gain exposure to a variety of ways to creatively and effectively visualize data
 2. Become familiar with common errors that can detract from a visualization's effectiveness
-3. How to develop a narrative that tells the story the data communicates
+3. How to develop a narrative that tells the story the data conveys
 
 ---
 ## Examples
