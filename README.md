@@ -21,8 +21,8 @@ In future professional roles, I hope to combine the data visualization skills I'
 3. How to develop a narrative that tells the story the data conveys
 
 ---
-## Examples
-This serves as a placeholder for in-class demos or other work.
+### Examples
+This is where I will display in-class demos or other work.
 
 ---
 ## Assignments
