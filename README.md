@@ -1,4 +1,5 @@
 # Portfolio:
+
 ### Introduction and References
 This is my public portfolio for the Telling Stories with Data class at Carnegie Mellon University. Here you can find all the visualizations I created for various class assignments.
 
