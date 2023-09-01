@@ -25,12 +25,15 @@ In future professional roles, I hope to combine the data visualization skills I'
 This is where I will display in-class demos or other work.
 
 ---
-## Assignment 1
+## Assignment 1:
+Here you will find my visualization for the first class assignment.
 
 ---
 ## Assignment 3 & 4:
+Here you will find my visualization for the third and fourth class assignments.
 
 ---
 ## Final Project
+Here you will find everything pertaining to the final class project.
 
 ---
