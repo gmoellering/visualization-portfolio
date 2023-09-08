@@ -26,7 +26,7 @@ This is where I will display in-class demos or other work.
 
 ---
 ## Assignment 1
-Here you will find my visualization for the first class assignment.
+[Here](/dataviz2.md) you will find my visualization for the first class assignment.
 
 ---
 ## Assignment 3 & 4
