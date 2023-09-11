@@ -12,7 +12,9 @@ Here is the latest available annual data for 2020 capturing General Government D
 
 ### Part II
 
-Part II here
+The following visualization shows the same data using a line chart.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/14983968"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Part III
 
