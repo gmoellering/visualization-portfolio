@@ -6,7 +6,9 @@ Provide overview of assignment here
 
 ### Part I
 
-Part I here
+Here is the latest available annual data for 2020 capturing General Government Debt totals as a percentage of GDP including all OAVG countries.
+
+<iframe src="https://data.oecd.org/chart/7bh8" width="500" height="375" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7bh8" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 ### Part II
 
