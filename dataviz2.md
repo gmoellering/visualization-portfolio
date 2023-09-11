@@ -20,6 +20,8 @@ The following visualization shows the debt-to-GDP ratios from 1995-2019 using a 
 
 Part III here
 
+<div class="flourish-embed flourish-slope" data-src="visualisation/14984447"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Back to Homepage
 
 Please click [here](/README.md) to navigate back to my main portfolio page.
