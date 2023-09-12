@@ -2,7 +2,7 @@
 
 ### Assignment Overview
 
-Provide overview of assignment here
+In this assignment, we are working with a provided dataset and are developing a story to tell with that particular dataset. To accomplish this, I'm going to explore ways to visualize OECD General Government Debt data using a visualization tool called Flourish. 
 
 ### Part I
 
