@@ -30,7 +30,7 @@ This is where I will display in-class demos or other work.
 
 ---
 ## Assignment 3 & 4
-Here you will find my visualization for the third and fourth class assignments.
+[Here](/assign3&4.md) you will find my visualization for the third and fourth class assignments.
 
 ---
 ## Final Project
