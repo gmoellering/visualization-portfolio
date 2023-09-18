@@ -101,14 +101,14 @@ I did get some interesting feedback that I found helpful in determining the most
     
  The fact that two people who were initially drawn to initial first visualizations were able to settle on the third one as the best and most interpretable helps me establish that the stacked area chart may appeal to the widest audience. I also got a lot of positive feedback about the aesthetic appeal of the color scheme, as green is reticent of both profits and football turf fields. I initially had questions as to whether or not including profits from Men’s Basketball was essential to advancing the message, but both people I interviewed seemed to think it was really important information once they saw it.
 
-### Part V
+### Part V: Build Your Solution
 
-In this visualization, I attempted to implement all the most relevant feedback I recieved. I attempted to combine the appeal of the stacked area chart, which the people I interviewed liked because of its 'step-down' nature, with the cleaner lines of a bar chart. I think the stacked column chart provided in Flourish does this well. I also updated the color scheme so that it didn't follow the green-red pattern. Instead, the green-brown palette will hopefully resonate with the audience as it resembles the turf fields football is played on as well as profit. Including both the conference logos and men's basketball data both emerged as very important aspects of the visualization in my feedback session, so I went out of my way to keep those elements as well.
+In this visualization, I attempted to implement all the most relevant feedback I recieved. I attempted to combine the appeal of the stacked area chart, which the people I interviewed liked because of its 'step-down' nature, with the cleaner lines of a bar chart. I think the stacked column chart provided in Flourish does this well. I also updated the color scheme so that it didn't follow the green-red pattern. Instead, the green-brown palette will hopefully resonate with the audience as it resembles the turf fields football is played on as well as profit. Including both the conference logos and men's basketball data both emerged as very important aspects of the visualization in my feedback session, so I went out of my way to keep those elements as well. Flourish did not allow me to imbed the conference logos directly into the graph, so I downloaded the image and added the logos separately. I decided that this approach detracted very little from the visualization, as I recieved feedback that the interactive aspects of my wireframes were either distracting or confusing.
 
 <p align="center">
   <img src="final_viz.png" title="Football Profits Offset Losses From All Other NCAA Sports (Designed Using Flourish)">
 </p>
 
-Overall, I think this visualization effectively improves on its predecessor, making it more digestable and more impactful to its target audience.
+Overall, I think this visualization effectively improves on its predecessor, making it more digestable and more impactful to its target audience!
 
 ### [Back to Homepage](/README.md)
