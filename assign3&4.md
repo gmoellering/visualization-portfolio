@@ -6,7 +6,13 @@ In this assignment, we are finding a visualization that could be improved and re
 
 ### Part I: Select a Visualization
 
+For this assignment, I chose a visualization from a [Sports Illustrated article](https://www.si.com/college/2020/04/08/college-football-future-2020-ncaa-coronavirus) originally published in April 2020 in the wake of the COVID-19 pandemic. The article explored the far-reaching effects of a potential cancellation of the 2020 college football season on the world of college-athletics at large. The visualization itself attempted to show the extent to which Power 5 Conference athletic departments depend on their football programs to finance all other NCAA sports programs.
 
+<p align="center">
+  <img src="original_viz.jpg" width="350" title="hover text">
+</p>
+
+I was initially "attracted" to this visualization because it struck me as ugly and, therefore, immediately recommended itself for improvement. After taking time to inspect it further, I realized that the chart did actually have an interesting story to tell. It was surprising to see the extent to which football carried the other sports programs financially, especially in contrast to men's basketball, which I assumed would be more profitable than it was. The fact that I wasn't able to discover that interesting information until I took the time to really look at the chart indicated there was even more room for improvement. An ugly visualization that also contians useful information is a great candidate for redesign. 
 
 ### Part II: Critique the Visualization
 
