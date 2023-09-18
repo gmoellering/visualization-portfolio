@@ -103,10 +103,12 @@ I did get some interesting feedback that I found helpful in determining the most
 
 ### Part V
 
-In this visualization, I attempted to implement all the most relevant feedback I recieved. I attempted to combine the appeal of the stacked area chart, which the people I interviewed liked because of its 'step-down' nature, with the cleaner lines of a bar chart. I think the Stacked Column Chart provided in Flourish does this well.  
+In this visualization, I attempted to implement all the most relevant feedback I recieved. I attempted to combine the appeal of the stacked area chart, which the people I interviewed liked because of its 'step-down' nature, with the cleaner lines of a bar chart. I think the stacked column chart provided in Flourish does this well. I also updated the color scheme so that it didn't follow the green-red pattern. Instead, the green-brown palette will hopefully resonate with the audience as it resembles the turf fields football is played on as well as profit. Including both the conference logos and men's basketball data both emerged as very important aspects of the visualization in my feedback session, so I went out of my way to keep those elements as well.
 
 <p align="center">
   <img src="final_viz.png" title="Football Profits Offset Losses From All Other NCAA Sports (Designed Using Flourish)">
 </p>
+
+Overall, I think this visualization effectively improves on its predecessor, making it more digestable and more impactful to its target audience.
 
 ### [Back to Homepage](/README.md)
