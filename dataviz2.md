@@ -37,4 +37,4 @@ The slope chart improves on the deficiencies of the first chart in that it allow
 
 ### Back to Homepage
 
-Please click [here](/README.md) to navigate back to my main portfolio page.s
+Please click [here](/README.md) to navigate back to my main portfolio page.
