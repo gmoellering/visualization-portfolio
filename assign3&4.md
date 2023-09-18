@@ -108,7 +108,7 @@ In this visualization, I implemented all the most relevant feedback I recieved. 
 ---
 
 <p align="center">
-  <img src="final_viz_2.png" width = 900 title="Football Profits Offset Losses From All Other NCAA Sports (Designed Using Flourish)">
+  <img src="final_viz_2.png" width = 700 title="Football Profits Offset Losses From All Other NCAA Sports (Designed Using Flourish)">
 </p>
 
 ---
