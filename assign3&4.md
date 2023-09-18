@@ -103,8 +103,10 @@ I did get some interesting feedback that I found helpful in determining the most
 
 ### Part V
 
+In this visualization, I attempted to combine all the most relevant areas of the feedback I recieved. 
+
 <p align="center">
-  <img src="final_viz.png" width="900" title="Football Profits Offset Losses From All Other NCAA Sports (Designed Using Flourish)">
+  <img src="final_viz.png" width="800" title="Football Profits Offset Losses From All Other NCAA Sports (Designed Using Flourish)">
 </p>
 
 ### [Back to Homepage](/README.md)
