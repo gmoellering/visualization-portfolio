@@ -103,10 +103,10 @@ I did get some interesting feedback that I found helpful in determining the most
 
 ### Part V
 
-In this visualization, I attempted to combine all the most relevant areas of the feedback I recieved. 
+In this visualization, I attempted to implement all the most relevant feedback I recieved. I attempted to combine the appeal of the stacked area chart, which the people I interviewed liked because of its 'step-down' nature, with the cleaner lines of a bar chart. I think the Stacked Column Chart provided in Flourish does this well.  
 
 <p align="center">
-  <img src="final_viz.png" width="800" title="Football Profits Offset Losses From All Other NCAA Sports (Designed Using Flourish)">
+  <img src="final_viz.png" title="Football Profits Offset Losses From All Other NCAA Sports (Designed Using Flourish)">
 </p>
 
 ### [Back to Homepage](/README.md)
