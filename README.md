@@ -36,4 +36,6 @@ This is where I will display in-class demos or other work.
 ## Final Project
 Here you will find everything pertaining to the final class project.
 
+[Click here](/part1.md) to navigate to Part I of the final project.
+
 ---
