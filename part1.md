@@ -50,9 +50,28 @@ Here I'll outline some of the draft visualizations I created during my data expl
 
 ### Data
 
-The dataset I am using for this project
+For this project, I am using data from The Armed Conflict Location & Event Data Project. The below data description is a direct excerpt from the Introduction of The Armed Conflict Location & Event Data Project Codebook:
+
+"ACLED collects reported information on the type, agents, location, date, and other characterstics of political violence events, demonstration events, and other select non-violent, politically-relevant developments in every country and territory in the world. ACLED focuses on tracking a range of violent and non-violent actions by or affecting political agents, including governments, rebels, militias, identity groups, political parties, external forces, rioters, protesters, and civilians...
+
+ACLED concentrates on:
+- Tracking rebel, militia, and government activity over time and space;
+- Recording violent acts between and across non-state groups, including political and identity militias;
+- Recording political violence by unnamed agents, as violent groups may remain unnamed for strategic reasons;
+- Recording attacks on civilians by all violent political agents;
+- Distinguishing between territorial transfers of military control from governments (and their affiliates) to non-state agents and vice versa;
+- Collecting information on rioting and protesting; and
+- Tracking non-violent strategic developments representing crucial junctures in period of political violence (e.g. recruitment drives, peace talks, high-level arrests).
+
+ACLED data are derived from a wide range of local, national, and international sources in over 75 languages. The information is collected by trained researchers worldwide."  ACLED, (2019). "Armed Conflict Location & Event Data Project (ACLED) Codebook"
+
+I plan on extracting all the conflict data from the regions with Russian military presence one year prior to the invasion, which includes Europe, Africa, and the Middle East. The data itself is very detailed in terms of listing the specific entities involved in each conflict. The level of detail is too intenseive for the narrative I plan to tell, so I modified the dataset to generalize the material. For example, instead of breaking out each individual actor affiliated with the Russian government, I reclassified them all under the title 'Russian Forces.' I also dropped conflict data that referred to peaceful protests and other civilian interactions. In making these adjustments, I lost some of the detail of the data, but simultaniously make it more accessible for my audience. 
+
+[Here](/russian_centric_acled.csv) is a link to the raw dataset I plan on using/modifying to tell my story.
+
 
 ### Methods and Meidum
 
+I plan on using Shorthand as the platform of the final project. Shorthand will act as a good medium for my narrative because it allows me to seamlessly integrate visualizations and the more descriptive narration my story requires.
 
 ### [Back to Homepage](/README.md)
