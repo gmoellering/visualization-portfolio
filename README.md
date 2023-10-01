@@ -38,4 +38,5 @@ Here you will find everything pertaining to the final class project.
 
 [Click here](/part1.md) to navigate to Part I of the final project.
 
+[Click here](/part2.md) to navigate to Part II of the final project.
 ---
