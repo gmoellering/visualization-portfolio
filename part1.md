@@ -8,7 +8,7 @@ In this assignment, we are introducing the outline, sketches, data, and methods 
 
 **Topic**: What Russia's Invasion of Ukraine Tells the World about the Nature and Consequences of Modern Conflict
 
-**Introduction Narrative**: Since the end of the Cold War, the world has witnessed states gradually losing control of their monopoly on violence. The war in Ukraine gives national security practitioners and humanitarion advocates an opportunity to evaluate the changing nature of conflict. Before Russia's invasion of Ukraine, low-grade conflict across the globe was prevalent, characterized by a high number of low-fatality conflicts scattered across thew orld's most violent regions. Rather than engage with their own forces, great powers like Russa would use external forces, the most known and effective of which was Wagner group, using them to pursue Russia's national political interests abroad. The war in Ukraine, and Russia's subsequent change in security posture, gives national security acedemcis and practitioners the opportunity to observe how a conventional war waged by a great power impacted its ability to continue to pursue its interests through irregular warfare waged by proxy forces abroad. It also presents an opportunity to evaluate the humanitarian impact of modern day conventional conflict in terms of loss of human life. In comparing these fatality numbers pre- and post-invasion, humanitarian and policy advocates can gain insight into the humanitarian impact of conventional conflict vs. enduring low-grade conflict involving various non-state actors. This could inform decisions on how to best concetrate deterrence efforts, against large scale combat operations or unconventional threats, to best prevent loss of life. 
+**Introduction Narrative**: Since the end of the Cold War, the world has witnessed states gradually losing control of their monopoly on violence. The war in Ukraine gives national security practitioners and humanitarion advocates an opportunity to evaluate the changing nature of conflict. Before Russia's invasion of Ukraine, low-grade conflict across the globe was prevalent, characterized by a high number of low-fatality conflicts scattered across the world's most violent regions. Rather than engage with their own forces, great powers like Russa would use external forces, the most known and effective of which was Wagner group, using them to pursue Russia's national political interests abroad. The war in Ukraine, and Russia's subsequent change in security posture, gives national security acedemcis and practitioners the opportunity to observe how a conventional war waged by a great power impacted its ability to continue to pursue its interests through irregular warfare waged by proxy forces abroad. It also presents an opportunity to evaluate the humanitarian impact of modern day conventional conflict in terms of loss of human life. In comparing these fatality numbers pre- and post-invasion, humanitarian and policy advocates can gain insight into the humanitarian impact of conventional conflict vs. enduring low-grade conflict involving various non-state actors. This could inform decisions on how to best concetrate deterrence efforts, against large scale combat operations or unconventional threats, to best prevent loss of life. 
 
 **Possible Questions to Address**:
 1. Has the world gotten more violent post-Russian invasion of Ukraine?
@@ -21,19 +21,36 @@ In this assignment, we are introducing the outline, sketches, data, and methods 
 **Story Objective**: Tell the story of how Russia's invasion of Ukraine changed the security landscape in terms of scope and scale of violent attacks (in terms of fatalities) in Russia's existing sphere of military influence (to include Europe, Africa, and the Middle East). Explain what the implications this could hold for security communities seeking to curb conventional and unconventional violence in a modern context.
 
 **Outline**:
- - 
+- Set the Stage for the Security Landscape pre-Ukraine Invasion
+    - Include a point-map visualization that shows conflict events in Europe, Afica, and the Middle East in the  year prior to the Ukraine invasion
+    - Incudlude 1-2 more visualizations that cahracterize the nature of the conflict in the designated regions pre-invasion
 
-**Story Arc**:
+- Introduce the Conflict Levels from the Russian Invasion of Ukraine to September 2023
+    - Use a point-map to introduce the explosion in conflict and fatalities after the invasion
+    - Use another time visulization to show how fatalities accumulated from the war in Ukraine far outpace those from any other type of conflict interaction.
 
+- Show how the Conventional War in Ukraine forced Wagner Group to Largely Cease its Operations in Africa and Return to Europe
+    - Use another map visualization or maybe a simpler graph like a line chart to show how Wagner Group activity in Africa dropped off post-invasion
+
+- Show that there is a Baseline Level of Conflict Not Involving Russian Forces that Remained Relatively Constant Pre- and Post-Invasion
+    - Highlight either in a new visual or using previous point maps that a baseline level of low-fatality conflict endured through conventional conflict
 
 
 ### Sketches
 
+Here I'll outline some of the draft visualizations I created during my data exploration phase of the project. These initial visualizations serve as my sketches because all subsequent visualizations will build on or slightly branch off of the story they present.
 
+**Visualization Showing All Conflict Events in the Europe, Africa, and the Middle East from FEB-2021 to SEP 2023**:
+
+<div class="flourish-embed flourish-map" data-src="visualisation/15191730"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+**Visualization Showing Which Entities are Engaging in Conflict and the Fatalities Those Conflicts Inflict Over Time**:
+
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/15193515"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Data
 
-
+The dataset I am using for this project
 
 ### Methods and Meidum
 
