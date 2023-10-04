@@ -10,7 +10,7 @@ A Great Power Goes to War:  What Russia's Invasion into Ukraine Teaches U.S. Def
 
 ### Counting Hidden Costs
 
-<div class="flourish-embed flourish-map" data-src="visualisation/15217111" width='100' height='75'><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-map" data-src="visualisation/15217111" width='100', height='75'><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### A Tale of Two Wars
 
