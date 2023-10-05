@@ -16,6 +16,10 @@ A Great Power Goes to War:  What Russia's Invasion into Ukraine Teaches U.S. Def
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15228490"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+### Part I: Wireframes and Storyboards
+
+[Please click here](https://preview.shorthand.com/tnrkYjssnzVGSFm0) to navigate to my Shorthand page and see the above visualizations in context.
+
 ### Part II: User Research and Interviews
 
 **Target Audeince and Interviewee Selection**: My target audience for this story is stakeholders in the defense community to include practitioners, policymakers, and academics. At the same time, I also understand that this information could be useful to any informed voter interested in issues pertaining to U.S. national security or global affairs. Therefore, my appraoch to finding interview subjects was to diversify. I selected one defense practitioner who has been following the Ukraine War and Wagner Group activity very closely over the past two years. I then selected one person I would consider an "interested voter" because they take an interest in current events pertaining to national security but are not deeply informed on defense budget issues or Russian military encroachments around the globe. My final subject was an artist who is not at all interested in national security issues. I thought in interviewing this person I could gauge the stand-alone effectiveness of my visualizations and maybe get valuable feedback on how to make them even more approachable or appealing.
@@ -62,37 +66,77 @@ In addition to some of the critiques mentioned above, I would consider adding in
 
 ***Can you tell me what the message for each of these visualizations is?***
 
-*Counting Hidden Costs* - 
+*Counting Hidden Costs* - It took me a few minutes to figure out where in the world, but essentially this is the rate at which the conflict in Ukraine accelerated and how many people died. 
 
-*A Tale of Two Wars* - 
+*A Tale of Two Wars* - There was a lot of conflict around the whole world in August 2023.
 
-*Who's Fighting Who?* - 
+*Who's Fighting Who?* - External forces or invaders must have had a big part to play in the rise in fatalities. 
 
-*Retreat to the Homefront* - 
+*Retreat to the Homefront* - I don't know that I really understand what this is telling me. 
 
 ***What do you find effective or ineffective about each of these graphs?  Is there one that you like the best?***
 
-*Counting Hidden Costs* - 
+*Counting Hidden Costs* - Colors indicating blood/loss of life; get rid of other snd restrict to total fatalities, label regions
 
-*A Tale of Two Wars* - 
+*A Tale of Two Wars* - I didn't understand that those numbers on the bottom were dates, make the line demarkatign the Russian invasion more clear, I liked the color scheme.
 
-*Who's Fighting Who?* - 
+*Who's Fighting Who?* - Slow down the animation, but it was very effective - make that popup pop would be helpful, change the dates
 
 *Retreat to the Homefront* - 
 
 ***Is there anything that you found confusing or surprising?***
 
-*Counting Hidden Costs* - 
+*Counting Hidden Costs* - other, regions 
 
 *A Tale of Two Wars* - 
 
-*Who's Fighting Who?* - 
+*Who's Fighting Who?* - I didn't understand that this encompassed all conflicts from Africa, the Middle East, and Europe
 
 *Retreat to the Homefront* - 
 
 ***Is there anything you would change or do differently?***
 
+**Female - Artist:**
 
+***Can you tell me what the message for each of these visualizations is?***
+
+*Counting Hidden Costs* - This is where Russia's battles occured, when they occured, and the extent of their impact. I found this easy to understand at the outset. 
+
+*A Tale of Two Wars* - 
+
+*Who's Fighting Who?* - The war in Ukraine caused a huge skyrocket in fatalities.
+
+*Retreat to the Homefront* - Wagner Group activity was concentrated in Africa 
+
+***What do you find effective or ineffective about each of these graphs?  Is there one that you like the best?***
+
+*Counting Hidden Costs* - I like the fact that it's on a map and it's very visual (you just have to watch the animation). I like the trend line that goes with the timeline at the bottom. I like that the dots show location and fatalities.
+
+*A Tale of Two Wars* - I didn't notice that the fatality legend was even there, get rid of the foreces engaged in conflict.
+
+*Who's Fighting Who?* - It shows the movement, so I like the animation, and I like how the color makes the important bar stand out. I didn't like how the pop-up of the invasion wasn't obvious.
+
+*Retreat to the Homefront* - 
+
+***Is there anything that you found confusing or surprising?***
+
+*Counting Hidden Costs* - Nope I really like this one.
+
+*A Tale of Two Wars* - 
+
+*Who's Fighting Who?* - The extent to which the war in Ukraine changed the bar - nothing confusing.
+
+*Retreat to the Homefront* - 
+
+***Is there anything you would change or do differently?***
+
+*Counting Hidden Costs* - It is a little difficult to tell the geography given the light background and borders.
+
+*A Tale of Two Wars* - 
+
+*Who's Fighting Who?* - Make that popup stand out.
+
+*Retreat to the Homefront* - 
 
 **Takeaways From Feedback:**
 
