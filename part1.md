@@ -46,7 +46,7 @@ Here I'll outline some of the draft visualizations I created during my data expl
 
 **Visualization Showing Which Entities are Engaging in Conflict and the Fatalities Those Conflicts Inflict Over Time**:
 
-<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/15193515"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/15225970"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Data
 
