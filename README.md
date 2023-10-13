@@ -21,10 +21,6 @@ In future professional roles, I hope to combine the data visualization skills I'
 3. How to develop a narrative that tells the story the data conveys
 
 ---
-### Examples
-This is where I will display in-class demos or other work.
-
----
 ## Assignment 1
 [Here](/dataviz2.md) you will find my visualization for the first class assignment.
 
@@ -39,5 +35,7 @@ Here you will find everything pertaining to the final class project.
 [Click here](/part1.md) to navigate to Part I of the final project.
 
 [Click here](/part2.md) to navigate to Part II of the final project.
+
+[Click here](/part3.md) to navigate to Part III of the final project.
 
 ---
