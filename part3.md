@@ -6,7 +6,7 @@ In this assignment, we are delivering our final product and reflections for the 
 
 ### Part I: Final Data Story
 
-[Please click here](https://preview.shorthand.com/tnrkYjssnzVGSFm0) to navigate to my Shorthand page for the final project.
+[Please click here](https://carnegiemellon.shorthandstories.com/a-great-power-goes-to-war/index.html) to navigate to my Shorthand page for the final project.
 
 ### Part II: Project Summary
 
